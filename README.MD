@@ -4,6 +4,7 @@
 - Chrome Browser
 - Git ([Download](https://git-scm.com/download/win))
 
+----------
 
 #### **How to Step to Step**
   1. ติดตั้ง git ก่อเลยจำเป็นต้อง ไว้โหลด batch มาใช้นะครับ
@@ -41,6 +42,8 @@
 
 มีปัญหาตรงไหนบอกได้นะครับ ที่ [issues](https://github.com/Touno-K/line.tv-download-batch/issues)
 
+----------
+By [Touno-k.com](http://touno-k.com/)
 
 [step1]: https://raw.githubusercontent.com/Touno-K/line.tv-download-batch/master/how-to/step-1.jpg
 [step2]: https://raw.githubusercontent.com/Touno-K/line.tv-download-batch/master/how-to/step-2.jpg
