@@ -2,16 +2,16 @@
 SETLOCAL EnableDelayedExpansion
 SET filename=%TIME:~0,2%%TIME:~3,2%%TIME:~6,2%%TIME:~9,2%
 SET uri=%2
-SET link=%uri:~1,95%
-SET key=%uri:~70,26%
-SET param=%uri:~130,52%
+SET link=%uri:~1,86%
+SET key=%uri:~61,26%
+SET param=%uri:~121,52%
 TITLE LineTV Downloading '%key%'...
 MD m3u8 >nul
-rem ECHO.
-rem ECHO link: %link% 
-rem ECHO key: %key% 
-rem ECHO param: %param%
-rem ECHO.
+ECHO.
+ECHO link: %link% 
+ECHO key: %key% 
+ECHO param: %param%
+ECHO.
 
 bin\cURL %uri% > m3u8\%1.tmpfile
 DEL m3u8\%1.m3u8 >nul
