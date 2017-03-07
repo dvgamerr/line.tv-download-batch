@@ -43,7 +43,7 @@
 มีปัญหาตรงไหนบอกได้นะครับ ที่ [issues](https://github.com/Touno-K/line.tv-download-batch/issues)
 
 ----------
-By [Touno-k.com](http://touno-k.com/)
+By [touno.co](http://touno.co/)
 
 [step1]: https://raw.githubusercontent.com/Touno-K/line.tv-download-batch/master/how-to/step-1.jpg
 [step2]: https://raw.githubusercontent.com/Touno-K/line.tv-download-batch/master/how-to/step-2.jpg
